@@ -427,8 +427,11 @@ else:
         <li>Generate personalized energy-saving recommendations</li>
       </ol>
 
-      <h4>Why this project fits the Thiranex task</h4>
-      <p>It demonstrates supervised learning, predictive modeling, model training/testing, regression, classification, confusion-matrix analysis and ROC-curve analysis in one practical application.</p>
+      <h4>From data to intelligent Energy Decisions</h4>
+      <p>An end-to-end supervised learning solution that transforms energy-usage data 
+    into actionable insights through predictive modeling, model training and testing, 
+    regression, classification, confusion-matrix analysis, and ROC-curve evaluation — 
+    all within a practical real-world energy management application.</p>
 
       <h4>Project Stack</h4>
       <p>Python • Pandas • NumPy • Scikit-learn • Plotly • Streamlit</p>
